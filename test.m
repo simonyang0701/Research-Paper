@@ -1,0 +1,17 @@
+input1=mz1(period1(1,1):period1(2,1));
+input2=mz1(period1(1,2):period1(2,2));
+input3=mz1(period1(1,3):period1(2,3));
+input4=mz1(period1(1,4):period1(2,4));
+input5=mz1(period1(1,5):period1(2,5));
+input6=mz1(period1(1,6):period1(2,6));
+input7=mz1(period1(1,7):period1(2,7));
+input8=mz1(period1(1,8):period1(2,8));
+input9=mz1(period1(1,9):period1(2,9));
+input10=mz1(period1(1,10):period1(2,10));
+input11=mz1(period1(1,11):period1(2,11));
+input12=mz1(period1(1,12):period1(2,12));
+input13=mz1(period1(1,13):period1(2,13));
+input14=mz1(period1(1,14):period1(2,14));
+input15=mz1(period1(1,15):period1(2,15));
+input16=mz1(period1(1,16):period1(2,16));
+input17=mz1(period1(1,17):period1(2,17));
